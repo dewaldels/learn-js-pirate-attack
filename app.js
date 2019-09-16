@@ -1,0 +1,2 @@
+const playerInfo;
+const gameInfo;
