@@ -41,7 +41,7 @@ In the `#section-player-name` main div create the following elements:
 
 ## Step 2:
 
-Inside the #attack section, after the game info, we need to add a couple of elements. We'd like our player to select a weapon
+Inside the `#attack` section, after the game info, we need to add a couple of elements. We'd like our player to select a weapon
     - `<label>` with the text: Select your weapon:
     - `<select> with 5 options
         - option 1: value="" text="-- Choose your weapon --"
